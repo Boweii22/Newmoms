@@ -23,15 +23,11 @@ Welcome to the New Moms Blog website! This project is designed to provide a user
 ### Contact Form
 - A contact form for users to get in touch with the blog administrators.
 
-### User Authentication
-- User registration and login system to allow users to create accounts and manage their posts.
-
 ## Technologies Used
 
 - **HTML**: For structuring the content of the website.
 - **CSS**: For styling the website and making it visually appealing.
 - **JavaScript**: For interactive elements and enhancing user experience.
-- **PHP**: For server-side processing, handling form submissions, and managing user authentication.
 
 ## Installation
 
@@ -43,16 +39,3 @@ Welcome to the New Moms Blog website! This project is designed to provide a user
     ```sh
     cd new-moms-blog
     ```
-3. Ensure you have a local server environment set up (e.g., XAMPP, WAMP, or MAMP).
-
-4. Place the project files in the appropriate directory for your server environment (e.g., `htdocs` for XAMPP).
-
-5. Start your local server.
-
-6. Open your web browser and navigate to:
-    ```
-    http://localhost/new-moms-blog
-    ```
-
-## File Structure
-
